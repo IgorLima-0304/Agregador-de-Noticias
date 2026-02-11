@@ -1,0 +1,18 @@
+# Ambiente Virtual (Pastas de bibliotecas do Python)
+venv/
+env/
+ENV/
+
+# Configurações de Segredos (Onde estão as tuas senhas e chaves API)
+.env
+
+# Cache do Python (Ficheiros temporários que o Python cria ao rodar)
+**/__pycache__/
+*.py[cod]
+
+# Configurações do VS Code
+.vscode/
+
+# Ficheiros do Sistema
+Thumbs.db
+.DS_Store
