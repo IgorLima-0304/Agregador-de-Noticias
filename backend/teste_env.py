@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 
-#tenta carregar o arquivo .env
+'#tenta carregar o arquivo .env'
 carregou = load_dotenv()
 
 print("=== 🧪 TESTE DE VARIÁVEIS DE AMBIENTE ===")
